@@ -1,0 +1,32 @@
+
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+
+
+[[mods]]
+
+modId="bagekslibrary"
+version="${file.jarVersion}"
+displayName="Bagek's Library"
+
+logoFile="logo.png"
+credits="The SWEM team for the model, Tre for the base/refernced code."
+authors="Coqire"
+description='''This mod is a library mod for Bagek's Equiney Addon. This mod changes how the SWEM horse is rendered with tack textures/items.
+
+YOU MUST INCLUDE THE TEXTUREPACK FOR IT TO WORK.
+'''
+[[dependencies.bagekslibrary]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.bagekslibrary]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
