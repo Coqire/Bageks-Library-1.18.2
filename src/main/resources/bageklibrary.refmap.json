@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "com/coqire/bagekslibrary/mixin/BreastCollarRendererMixin": {
+      "checkLegWrapsForRendering": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;checkLegWrapsForRendering(Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "showBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;showBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "hideBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;hideBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V"
+    },
+    "com/coqire/bagekslibrary/mixin/BlanketRendererMixin": {
+      "checkLegWrapsForRendering": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;checkLegWrapsForRendering(Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "showBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;showBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "hideBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;hideBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V"
+    },
+    "com/coqire/bagekslibrary/mixin/BridleRendererMixin": {
+      "checkLegWrapsForRendering": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;checkLegWrapsForRendering(Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "showBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;showBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "hideBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;hideBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V"
+    },
+    "com/coqire/bagekslibrary/mixin/HalterRendererMixin": {
+      "checkLegWrapsForRendering": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;checkLegWrapsForRendering(Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "showBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;showBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "hideBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;hideBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V"
+    },
+    "com/coqire/bagekslibrary/mixin/LegWrapsRendererMixin": {
+      "checkLegWrapsForRendering": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;checkLegWrapsForRendering(Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "showBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;showBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "hideBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;hideBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V"
+    },
+    "com/coqire/bagekslibrary/mixin/PastureBlanketRendererMixin": {
+      "checkLegWrapsForRendering": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;checkLegWrapsForRendering(Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "showBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;showBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V",
+      "hideBone": "Lcom/alaharranhonor/swem/forge/client/render/SWEMHorseRenderer;hideBone(Ljava/lang/String;Lcom/alaharranhonor/swem/forge/entities/horse/SWEMHorseEntity;)V"
+    }
+  }
+}

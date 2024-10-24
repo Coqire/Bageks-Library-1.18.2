@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "com.coqire.bagekslibrary.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "bageklibrary.refmap.json",
+  "mixins": [
+    "BlanketRendererMixin",
+    "BreastCollarRendererMixin",
+    "BridleRendererMixin",
+    "HalterRendererMixin",
+    "LegWrapsRendererMixin",
+    "PastureBlanketRendererMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
